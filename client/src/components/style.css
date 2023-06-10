@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myForm{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+   border-radius: 8px;
+}
