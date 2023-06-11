@@ -1,1 +1,1 @@
-export const BASE_URL = "https://jovial-fudge-ea763b.netlify.app"
+export const BASE_URL = "https://webpage-craper.onrender.com"
